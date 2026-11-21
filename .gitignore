@@ -1,0 +1,19 @@
+# Python byte code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+venv/
+ENV/
+
+# PlatformIO & IDE
+.pio/
+.vscode/
+
+# Media recordings
+*.mp4
+
+# Local analysis caches
+graphify-out/

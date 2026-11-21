@@ -1,0 +1,7 @@
+policy,threshold_sigma,seeds,messages_sent_mean,messages_sent_std,bytes_sent_mean,bytes_sent_std,reduction_pct_mean,reduction_pct_std,critical_events_mean,critical_events_std,detected_mean,detected_std,missed_mean,missed_std,fnr_pct_mean,fnr_pct_std,false_positives_mean,false_positives_std,precision_pct_mean,precision_pct_std,reduction_pct_min,fnr_pct_max,seeds_with_zero_missed,total_missed,total_false_positives,total_critical_events
+gated,1.0,2,64.5,12.021,9999.5,1878.783,35.725,12.084,2,2.828,2,2.828,0,0.0,0.0,0.0,12.5,9.192,8.695,12.297,27.18,0.0,2,0,25,4
+gated,1.5,2,55.5,7.778,8588.5,1215.517,44.79,7.821,2,2.828,2,2.828,0,0.0,0.0,0.0,3.5,4.95,36.36,0.0,39.26,0.0,2,0,7,4
+gated,2.0,2,52,2.828,8041,441.235,48.31,2.843,2,2.828,2,2.828,0,0.0,0.0,0.0,0,0.0,100.0,0.0,46.3,0.0,2,0,0,4
+gated,2.5,2,52,2.828,8041,441.235,48.31,2.843,2,2.828,2,2.828,0,0.0,0.0,0.0,0,0.0,100.0,0.0,46.3,0.0,2,0,0,4
+gated,3.0,2,52,2.828,8041,441.235,48.31,2.843,2,2.828,2,2.828,0,0.0,0.0,0.0,0,0.0,100.0,0.0,46.3,0.0,2,0,0,4
+gated,3.5,2,52,2.828,8041,441.235,48.31,2.843,2,2.828,2,2.828,0,0.0,0.0,0.0,0,0.0,100.0,0.0,46.3,0.0,2,0,0,4

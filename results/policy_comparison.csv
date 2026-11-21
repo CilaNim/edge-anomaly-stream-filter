@@ -1,0 +1,7 @@
+threshold_sigma,seeds,reduction_pct_gated,reduction_pct_push_all,fnr_pct_gated,fnr_pct_push_all,missed_gated,missed_push_all,false_positives_gated,false_positives_push_all,critical_events
+1.0,1,44.27,45.28,0.0,0.0,0,0,6,5,0
+1.5,1,50.32,50.32,0.0,0.0,0,0,0,0,0
+2.0,1,50.32,50.32,0.0,0.0,0,0,0,0,0
+2.5,1,50.32,50.32,0.0,0.0,0,0,0,0,0
+3.0,1,50.32,50.32,0.0,0.0,0,0,0,0,0
+3.5,1,50.32,50.32,0.0,0.0,0,0,0,0,0

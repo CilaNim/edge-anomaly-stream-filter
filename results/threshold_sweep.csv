@@ -1,0 +1,7 @@
+policy,threshold_sigma,samples,baseline_messages,baseline_bytes,messages_sent,warmup_messages,anomaly_messages,bytes_sent,reduction_pct,reduction_vs_raw_stream_pct,critical_events,warmup_spikes_sent_raw,detected,missed,fnr_pct,false_positives,precision_pct
+gated,1.0,100,100,15558,56,50,6,8671,44.27,13.12,0,1,0,0,0.0,6,0.0
+gated,1.5,100,100,15558,50,50,0,7729,50.32,22.56,0,1,0,0,0.0,0,
+gated,2.0,100,100,15558,50,50,0,7729,50.32,22.56,0,1,0,0,0.0,0,
+gated,2.5,100,100,15558,50,50,0,7729,50.32,22.56,0,1,0,0,0.0,0,
+gated,3.0,100,100,15558,50,50,0,7729,50.32,22.56,0,1,0,0,0.0,0,
+gated,3.5,100,100,15558,50,50,0,7729,50.32,22.56,0,1,0,0,0.0,0,
